@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)     // Teste exemplo exemplo
         setContentView(R.layout.activity_main) // Teste exemplo
 
-
+            // HAJFB
     }
 }
